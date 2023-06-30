@@ -1,4 +1,5 @@
 # Batch Processing with Hadoop
+simple ETL Batch Processing with MapReduce  
 ## Flow
 ![image](https://github.com/AndhikaAr22/Simple-ETL-Batch-Processing-with-hadoop/assets/116149022/3e9a5dfc-769d-402e-9ad3-dc9609831cd5)
 
